@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajitovelil&theme=dark" alt="satyajitovelil" /></p>
 
-[![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajitovelil&hide=contribs,issues)]
+<!-- [![Satyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyajitovelil&hide=contribs,issues)] -->
 
